@@ -1,0 +1,13 @@
+{
+   "first_name": "Penny",
+   "last_name": "Lambert",
+   "gender": "female",
+   "address": "7058 W Campbell Ave, Reno, Colorado, United States",
+   "postcode": 32579,
+   "email": "penny.lambert@example.com",
+   "username": "sadfrog137",
+   "dob": "1950-12-05T20:24:56.120Z",
+   "registered_date": "2012-08-16T18:55:32.281Z",
+   "phone": "(978) 939-3113",
+   "picture": "https://randomuser.me/api/portraits/med/women/52.jpg"
+}
